@@ -1,1 +1,1 @@
-{"status":true,"updated_at_utc":"2026-07-09 20:00:11","server_time":1783627211,"odds":{}}
+{"status":true,"updated_at_utc":"2026-07-09 20:02:04","server_time":1783627324,"odds":{"1578539":{"home_team_id":2,"away_team_id":31,"updated":1,"status":"First Half","match_winner":{"home":"2.3","draw":"2.1","away":"5.5"},"next_goal":{"home":null,"none":null,"away":null}},"1554400":{"home_team_id":679,"away_team_id":1164,"updated":45,"status":"Halftime","match_winner":{"home":"251","draw":"10","away":"1.045"},"next_goal":{"home":null,"none":null,"away":null}}}}
